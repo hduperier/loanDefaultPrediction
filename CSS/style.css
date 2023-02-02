@@ -134,7 +134,7 @@ body, html {
 
 .bg-image {
     /* The image used */
-    background-image: url("/loanDefaultPrediction/img/bull.jpg");
+    background-image: url("https://hduperier.github.io/loanDefaultPrediction/img/bull.jpg");
   
     /* Add the blur effect */
     filter: blur(8px);
