@@ -132,7 +132,7 @@ body, html {
     height: 100%;
 }
 
-.bg-image {
+.bg-img {
     /* The image used */
     background-image: url("https://hduperier.github.io/loanDefaultPrediction/img/bull.jpg");
   
@@ -147,4 +147,4 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+}
