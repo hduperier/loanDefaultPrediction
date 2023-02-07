@@ -128,7 +128,12 @@ nav{
 }
 
 /* Style body */
-body, html {
+body {
+    height: 100%;
+    background-color: black;
+}
+
+html {
     height: 100%;
 }
 
